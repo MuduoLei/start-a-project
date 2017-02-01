@@ -1,0 +1,9 @@
+.cube{
+	background-color: darkorange;
+	width: 30vw;
+	height: 30vw;
+	position: relative;
+	float: left;
+	margin: 0.5vw;
+	border-radius: 2vw;
+}
